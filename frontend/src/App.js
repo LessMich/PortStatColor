@@ -11,9 +11,9 @@ const App = () => {
           <div className="hero-overlay"></div>
         </div>
         <div className="hero-content">
-          <h1 className="hero-title gradient-text-1">Michele Tedeschi</h1>
-          <h2 className="hero-subtitle gradient-text-2">Sound Designer & Multimedia Audio Specialist</h2>
-          <p className="hero-description gradient-text-3">
+          <h1 className="hero-title gradient-text-hero-title">Michele Tedeschi</h1>
+          <h2 className="hero-subtitle gradient-text-hero-subtitle">Sound Designer & Multimedia Audio Specialist</h2>
+          <p className="hero-description body-text">
             Crafting immersive audio experiences across films, advertisements, interactive media, and multimedia projects
           </p>
           <div className="scroll-indicator">
