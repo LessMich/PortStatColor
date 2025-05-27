@@ -279,7 +279,8 @@ body {
   font-weight: 700;
   text-align: center;
   margin-bottom: 60px;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
 }
 
 .project-grid {
