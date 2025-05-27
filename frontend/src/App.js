@@ -144,16 +144,16 @@ const App = () => {
         <div className="container">
           <div className="about-content">
             <div className="about-text">
-              <h2 className="section-title gradient-text-13">About Michele</h2>
-              <p className="about-paragraph gradient-text-14">
+              <h2 className="section-title gradient-text-about-title">About Michele</h2>
+              <p className="about-paragraph body-text">
                 With over a decade of experience in audio production and sound design, I specialize in creating 
                 compelling sonic experiences that enhance storytelling across multiple media formats.
               </p>
-              <p className="about-paragraph gradient-text-15">
+              <p className="about-paragraph body-text">
                 My work spans from intimate podcast productions to large-scale film soundtracks, always focusing 
                 on the emotional impact of sound and its ability to transport listeners into new worlds.
               </p>
-              <p className="about-paragraph gradient-text-16">
+              <p className="about-paragraph body-text">
                 I believe that great audio design is invisible—it should feel natural and effortless while 
                 subtly guiding the audience's emotional journey through expertly crafted sonic landscapes.
               </p>
