@@ -219,25 +219,25 @@ const App = () => {
       {/* Contact Section */}
       <section className="contact">
         <div className="container">
-          <h2 className="section-title gradient-text-30">Let's Create Something Amazing</h2>
+          <h2 className="section-title gradient-text-contact-title">Let's Create Something Amazing</h2>
           <div className="contact-content">
             <div className="contact-info">
-              <p className="contact-text gradient-text-31">
+              <p className="contact-text body-text">
                 Ready to elevate your project with professional audio design? Let's discuss how we can bring 
                 your vision to life through sound.
               </p>
               <div className="contact-details">
                 <div className="contact-item">
-                  <span className="contact-label gradient-text-32">Email:</span>
-                  <span className="contact-value gradient-text-33">michele@audiodesign.studio</span>
+                  <span className="contact-label gradient-text-contact-label">Email:</span>
+                  <span className="contact-value body-text-secondary">michele@audiodesign.studio</span>
                 </div>
                 <div className="contact-item">
-                  <span className="contact-label gradient-text-34">Phone:</span>
-                  <span className="contact-value gradient-text-35">+1 (555) 123-4567</span>
+                  <span className="contact-label gradient-text-contact-label">Phone:</span>
+                  <span className="contact-value body-text-secondary">+1 (555) 123-4567</span>
                 </div>
                 <div className="contact-item">
-                  <span className="contact-label gradient-text-36">Location:</span>
-                  <span className="contact-value gradient-text-37">Los Angeles, CA</span>
+                  <span className="contact-label gradient-text-contact-label">Location:</span>
+                  <span className="contact-value body-text-secondary">Los Angeles, CA</span>
                 </div>
               </div>
             </div>
@@ -255,7 +255,7 @@ const App = () => {
                 <div className="form-group">
                   <textarea placeholder="Tell me about your project..." className="form-textarea"></textarea>
                 </div>
-                <button type="submit" className="form-submit gradient-text-38">Send Message</button>
+                <button type="submit" className="form-submit gradient-text-contact-label">Send Message</button>
               </form>
             </div>
           </div>
@@ -265,7 +265,7 @@ const App = () => {
       {/* Footer */}
       <footer className="footer">
         <div className="container">
-          <p className="footer-text gradient-text-39">
+          <p className="footer-text gradient-text-footer">
             © 2025 Michele Tedeschi. All rights reserved.
           </p>
         </div>
