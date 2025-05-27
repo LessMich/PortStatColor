@@ -168,47 +168,47 @@ const App = () => {
       {/* Services Section */}
       <section className="services">
         <div className="container">
-          <h2 className="section-title gradient-text-17">Services & Expertise</h2>
+          <h2 className="section-title gradient-text-services-title">Services & Expertise</h2>
           <div className="services-grid">
             <div className="service-card">
               <div className="service-icon">🎬</div>
-              <h3 className="service-title gradient-text-18">Film & Video Sound Design</h3>
-              <p className="service-description gradient-text-19">
+              <h3 className="service-title gradient-text-service-1">Film & Video Sound Design</h3>
+              <p className="service-description body-text-secondary">
                 Complete audio post-production including foley, ambient design, dialogue editing, and final mix
               </p>
             </div>
             <div className="service-card">
               <div className="service-icon">🎵</div>
-              <h3 className="service-title gradient-text-20">Music Composition & Production</h3>
-              <p className="service-description gradient-text-21">
+              <h3 className="service-title gradient-text-service-2">Music Composition & Production</h3>
+              <p className="service-description body-text-secondary">
                 Original compositions, arrangements, and full production from concept to final master
               </p>
             </div>
             <div className="service-card">
               <div className="service-icon">🎙️</div>
-              <h3 className="service-title gradient-text-22">Podcast & Voice Production</h3>
-              <p className="service-description gradient-text-23">
+              <h3 className="service-title gradient-text-service-3">Podcast & Voice Production</h3>
+              <p className="service-description body-text-secondary">
                 Professional recording, editing, and post-production for podcasts and voice-over projects
               </p>
             </div>
             <div className="service-card">
               <div className="service-icon">🎮</div>
-              <h3 className="service-title gradient-text-24">Interactive & Game Audio</h3>
-              <p className="service-description gradient-text-25">
+              <h3 className="service-title gradient-text-service-4">Interactive & Game Audio</h3>
+              <p className="service-description body-text-secondary">
                 Dynamic audio systems and immersive soundscapes for games and interactive installations
               </p>
             </div>
             <div className="service-card">
               <div className="service-icon">🎭</div>
-              <h3 className="service-title gradient-text-26">Live Performance Audio</h3>
-              <p className="service-description gradient-text-27">
+              <h3 className="service-title gradient-text-service-5">Live Performance Audio</h3>
+              <p className="service-description body-text-secondary">
                 Live sound engineering, mixing, and technical production for events and performances
               </p>
             </div>
             <div className="service-card">
               <div className="service-icon">📺</div>
-              <h3 className="service-title gradient-text-28">Commercial & Advertising</h3>
-              <p className="service-description gradient-text-29">
+              <h3 className="service-title gradient-text-service-6">Commercial & Advertising</h3>
+              <p className="service-description body-text-secondary">
                 Brand-focused audio design and production for commercials, promotional content, and marketing
               </p>
             </div>
