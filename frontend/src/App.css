@@ -123,278 +123,145 @@ body {
   }
 }
 
-/* Text Gradients - Unique for each paragraph */
-.gradient-text-1 {
+/* Text Gradients - Applied to Headings/Titles Only */
+.gradient-text-hero-title {
   background: linear-gradient(135deg, #ff6b6b, #ee5a24);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-2 {
+.gradient-text-hero-subtitle {
   background: linear-gradient(135deg, #4ecdc4, #45b7d1);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-3 {
-  background: linear-gradient(135deg, #96ceb4, #feca57);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-4 {
+.gradient-text-section-title {
   background: linear-gradient(135deg, #fd79a8, #fdcb6e);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-5 {
+.gradient-text-project-title-1 {
   background: linear-gradient(135deg, #6c5ce7, #fd79a8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-6 {
-  background: linear-gradient(135deg, #a29bfe, #fd79a8);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-7 {
+.gradient-text-project-title-2 {
   background: linear-gradient(135deg, #00b894, #55a3ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-8 {
-  background: linear-gradient(135deg, #ffeaa7, #fab1a0);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-9 {
+.gradient-text-project-title-3 {
   background: linear-gradient(135deg, #fd63a3, #fc7303);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-10 {
-  background: linear-gradient(135deg, #78e08f, #38ada9);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-11 {
+.gradient-text-project-title-4 {
   background: linear-gradient(135deg, #ff9ff3, #f368e0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-12 {
-  background: linear-gradient(135deg, #3742fa, #2f3542);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-13 {
+.gradient-text-about-title {
   background: linear-gradient(135deg, #ff3838, #ff9500);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-14 {
-  background: linear-gradient(135deg, #7bed9f, #70a1ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-15 {
-  background: linear-gradient(135deg, #ff9ff3, #54a0ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-16 {
-  background: linear-gradient(135deg, #feca57, #ff6348);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-17 {
+.gradient-text-services-title {
   background: linear-gradient(135deg, #5f27cd, #00d2d3);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-18 {
+.gradient-text-service-1 {
   background: linear-gradient(135deg, #ff6b9d, #c44569);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-19 {
-  background: linear-gradient(135deg, #f8b500, #feca57);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-20 {
+.gradient-text-service-2 {
   background: linear-gradient(135deg, #ff5e5b, #ffd23f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-21 {
-  background: linear-gradient(135deg, #06ffa5, #3742fa);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-22 {
+.gradient-text-service-3 {
   background: linear-gradient(135deg, #ff5722, #ff9800);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-23 {
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-24 {
+.gradient-text-service-4 {
   background: linear-gradient(135deg, #f093fb, #f5576c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-25 {
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-26 {
+.gradient-text-service-5 {
   background: linear-gradient(135deg, #43e97b, #38f9d7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-27 {
-  background: linear-gradient(135deg, #fa709a, #fee140);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-28 {
+.gradient-text-service-6 {
   background: linear-gradient(135deg, #a8edea, #fed6e3);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-29 {
-  background: linear-gradient(135deg, #ff8a80, #ea4c89);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-30 {
+.gradient-text-contact-title {
   background: linear-gradient(135deg, #667eea, #764ba2);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-31 {
-  background: linear-gradient(135deg, #f093fb, #f5576c);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-32 {
+.gradient-text-contact-label {
   background: linear-gradient(135deg, #4facfe, #00f2fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-.gradient-text-33 {
-  background: linear-gradient(135deg, #43e97b, #38f9d7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-34 {
-  background: linear-gradient(135deg, #fa709a, #fee140);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-35 {
-  background: linear-gradient(135deg, #a8edea, #fed6e3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-36 {
-  background: linear-gradient(135deg, #ff8a80, #ea4c89);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-37 {
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-38 {
-  background: linear-gradient(135deg, #f093fb, #f5576c);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-39 {
+.gradient-text-footer {
   background: linear-gradient(135deg, #4facfe, #00f2fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+/* Clean Body Text Styles */
+.body-text {
+  color: #e2e8f0;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+.body-text-secondary {
+  color: #cbd5e1;
+  font-weight: 400;
+  line-height: 1.6;
+  opacity: 0.9;
 }
 
 /* Portfolio Section */
