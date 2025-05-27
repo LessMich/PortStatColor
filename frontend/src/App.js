@@ -25,7 +25,7 @@ const App = () => {
       {/* Portfolio Section */}
       <section className="portfolio">
         <div className="container">
-          <h2 className="section-title gradient-text-4">Featured Work</h2>
+          <h2 className="section-title gradient-text-section-title">Featured Work</h2>
           
           <div className="project-grid">
             {/* Project 1 - YouTube Embed */}
@@ -42,8 +42,8 @@ const App = () => {
                 </div>
               </div>
               <div className="project-info">
-                <h3 className="project-title gradient-text-5">Commercial Advertisement - Brand Campaign</h3>
-                <p className="project-description gradient-text-6">
+                <h3 className="project-title gradient-text-project-title-1">Commercial Advertisement - Brand Campaign</h3>
+                <p className="project-description body-text">
                   Complete sound design and audio post-production for a major brand campaign. Responsibilities included 
                   foley recording, ambient sound design, music selection, and final mix engineering.
                 </p>
@@ -69,8 +69,8 @@ const App = () => {
                 </div>
               </div>
               <div className="project-info">
-                <h3 className="project-title gradient-text-7">Film Score Composition - "Echoes"</h3>
-                <p className="project-description gradient-text-8">
+                <h3 className="project-title gradient-text-project-title-2">Film Score Composition - "Echoes"</h3>
+                <p className="project-description body-text">
                   Original composition and orchestration for an independent film. Created atmospheric themes using 
                   hybrid orchestral and electronic elements, providing emotional depth to key narrative moments.
                 </p>
@@ -96,8 +96,8 @@ const App = () => {
                 </div>
               </div>
               <div className="project-info">
-                <h3 className="project-title gradient-text-9">Interactive Installation - "Sonic Landscapes"</h3>
-                <p className="project-description gradient-text-10">
+                <h3 className="project-title gradient-text-project-title-3">Interactive Installation - "Sonic Landscapes"</h3>
+                <p className="project-description body-text">
                   Multi-channel audio design for an interactive art installation. Developed reactive soundscapes 
                   that respond to visitor movement, creating an immersive 360-degree audio environment.
                 </p>
@@ -123,8 +123,8 @@ const App = () => {
                 </div>
               </div>
               <div className="project-info">
-                <h3 className="project-title gradient-text-11">Podcast Series Production</h3>
-                <p className="project-description gradient-text-12">
+                <h3 className="project-title gradient-text-project-title-4">Podcast Series Production</h3>
+                <p className="project-description body-text">
                   Complete audio production pipeline for a weekly podcast series. Handled recording, editing, 
                   noise reduction, dynamic processing, and final mastering for broadcast distribution.
                 </p>
