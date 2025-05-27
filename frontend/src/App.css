@@ -127,7 +127,9 @@ body {
   }
 }
 
-/* Text Gradients - Applied to Headings/Titles Only */
+/* Text Gradients - Organized Warm-to-Cool Flow */
+
+/* Hero Section - Warm Entry */
 .gradient-text-hero-title {
   background: linear-gradient(135deg, #ff6b6b, #ee5a24);
   -webkit-background-clip: text;
@@ -136,119 +138,123 @@ body {
 }
 
 .gradient-text-hero-subtitle {
-  background: linear-gradient(135deg, #4ecdc4, #45b7d1);
+  background: linear-gradient(135deg, #ff9068, #fd79a8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
+/* Featured Work Section - Warm Tones (Reds, Oranges, Peaches) */
 .gradient-text-section-title {
-  background: linear-gradient(135deg, #fd79a8, #fdcb6e);
+  background: linear-gradient(135deg, #ff6b6b, #fd79a8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .gradient-text-project-title-1 {
-  background: linear-gradient(135deg, #6c5ce7, #fd79a8);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-project-title-2 {
-  background: linear-gradient(135deg, #00b894, #55a3ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-project-title-3 {
-  background: linear-gradient(135deg, #fd63a3, #fc7303);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-project-title-4 {
-  background: linear-gradient(135deg, #ff9ff3, #f368e0);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-about-title {
-  background: linear-gradient(135deg, #ff3838, #ff9500);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-services-title {
-  background: linear-gradient(135deg, #5f27cd, #00d2d3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-service-1 {
-  background: linear-gradient(135deg, #ff6b9d, #c44569);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-service-2 {
-  background: linear-gradient(135deg, #ff5e5b, #ffd23f);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.gradient-text-service-3 {
   background: linear-gradient(135deg, #ff5722, #ff9800);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
+.gradient-text-project-title-2 {
+  background: linear-gradient(135deg, #ff8a65, #ffab40);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-project-title-3 {
+  background: linear-gradient(135deg, #ffab40, #ff7043);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-project-title-4 {
+  background: linear-gradient(135deg, #ff8a80, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* About Section - Greenish Tones (Soft but Fresh) */
+.gradient-text-about-title {
+  background: linear-gradient(135deg, #4caf50, #66bb6a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Services Section - Violet/Purple Tones (Professional but Creative) */
+.gradient-text-services-title {
+  background: linear-gradient(135deg, #9c27b0, #e1bee7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-service-1 {
+  background: linear-gradient(135deg, #8e24aa, #ba68c8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-service-2 {
+  background: linear-gradient(135deg, #7b1fa2, #ab47bc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-service-3 {
+  background: linear-gradient(135deg, #673ab7, #9575cd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
 .gradient-text-service-4 {
-  background: linear-gradient(135deg, #f093fb, #f5576c);
+  background: linear-gradient(135deg, #5e35b1, #7986cb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .gradient-text-service-5 {
-  background: linear-gradient(135deg, #43e97b, #38f9d7);
+  background: linear-gradient(135deg, #512da8, #7c4dff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .gradient-text-service-6 {
-  background: linear-gradient(135deg, #a8edea, #fed6e3);
+  background: linear-gradient(135deg, #4527a0, #651fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
+/* Contact Section - Cool Blue Tones (Clean and Calm) */
 .gradient-text-contact-title {
-  background: linear-gradient(135deg, #667eea, #764ba2);
+  background: linear-gradient(135deg, #2196f3, #03a9f4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .gradient-text-contact-label {
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  background: linear-gradient(135deg, #1976d2, #42a5f5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
 .gradient-text-footer {
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  background: linear-gradient(135deg, #0d47a1, #1e88e5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
